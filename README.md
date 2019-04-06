@@ -5,7 +5,6 @@
 [![Test Coverage](https://codeclimate.com/github/felipeelias/erb-view/badges/coverage.svg)](https://codeclimate.com/github/felipeelias/erb-view/coverage)
 [![Code Climate](https://codeclimate.com/github/felipeelias/erb-view/badges/gpa.svg)](https://codeclimate.com/github/felipeelias/erb-view)
 [![Issue Count](https://codeclimate.com/github/felipeelias/erb-view/badges/issue_count.svg)](https://codeclimate.com/github/felipeelias/erb-view)
-[![Dependency Status](https://gemnasium.com/badges/github.com/felipeelias/erb-view.svg)](https://gemnasium.com/github.com/felipeelias/erb-view)
 [![security](https://hakiri.io/github/felipeelias/erb-view/master.svg)](https://hakiri.io/github/felipeelias/erb-view/master)
 
 Simple wrapper around ERB that lets you create class based views.

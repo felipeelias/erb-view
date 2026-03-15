@@ -1,9 +1,7 @@
 # Erb::View
 
-[![Build Status](https://travis-ci.org/felipeelias/erb-view.svg?branch=master)](https://travis-ci.org/felipeelias/erb-view)
+[![CI](https://github.com/felipeelias/erb-view/actions/workflows/ci.yml/badge.svg)](https://github.com/felipeelias/erb-view/actions/workflows/ci.yml)
 [![Gem Version](https://badge.fury.io/rb/erb-view.svg)](https://badge.fury.io/rb/erb-view)
-[![Code Climate](https://codeclimate.com/github/felipeelias/erb-view/badges/gpa.svg)](https://codeclimate.com/github/felipeelias/erb-view)
-[![security](https://hakiri.io/github/felipeelias/erb-view/master.svg)](https://hakiri.io/github/felipeelias/erb-view/master)
 
 Simple wrapper around ERB that lets you create class based views.
 

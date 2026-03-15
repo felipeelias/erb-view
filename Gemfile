@@ -1,10 +1,12 @@
+# frozen_string_literal: true
+
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in erb-view.gemspec
 gemspec
 
+gem 'minitest', '~> 5.0'
+gem 'minitest-rg', '~> 5.0'
 gem 'pry'
-
-group :test do
-  gem 'simplecov'
-end
+gem 'rake', '>= 13.0'
+gem 'rubocop', '~> 1.0', require: false
+gem 'simplecov', require: false

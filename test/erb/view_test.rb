@@ -1,19 +1,24 @@
+# frozen_string_literal: true
+
 require 'test_helper'
 
 class Erb::ViewTest < Minitest::Test
   class SimpleView
     include Erb::View
+
     template :simple
   end
 
   class DataView
     include Erb::View
+
     template :with_data
     exposes  :name
   end
 
   class MethodView
     include Erb::View
+
     template :with_data
     exposes  :name
 

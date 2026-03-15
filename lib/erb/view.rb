@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'erb/view/version'
 require 'erb'
 require 'pathname'
@@ -40,6 +42,7 @@ module Erb
     def initialize
       self.class.exposes.each do |method|
         next if respond_to?(method)
+
         define_singleton_method(method) do
           @data.fetch(method)
         end

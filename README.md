@@ -1,4 +1,4 @@
-# Erb::View
+# [Erb::View](https://felipeelias.github.io/erb-view)
 
 [![CI](https://github.com/felipeelias/erb-view/actions/workflows/ci.yml/badge.svg)](https://github.com/felipeelias/erb-view/actions/workflows/ci.yml)
 [![Gem Version](https://badge.fury.io/rb/erb-view.svg)](https://badge.fury.io/rb/erb-view)

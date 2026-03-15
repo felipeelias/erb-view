@@ -1,0 +1,10 @@
+{
+  "packages": {
+    ".": {
+      "release-type": "ruby",
+      "package-name": "erb-view",
+      "version-file": "lib/erb/view/version.rb",
+      "changelog-path": "CHANGELOG.md"
+    }
+  }
+}
